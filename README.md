@@ -13,4 +13,4 @@
 
 - How to reach me: LinkedIn- Amós Judá
 
-- ⚡ Fun fact: i really try
+- ⚡ Fun fact: i really can
