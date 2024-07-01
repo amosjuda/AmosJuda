@@ -2,8 +2,6 @@
 
 ## Hello!!!
 
-- I’m not currently working
-
 - I’m currently learning HTML, CSS, JavaScript and JAVA
 
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
