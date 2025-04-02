@@ -54,3 +54,9 @@ I am Amós Judá and i have 22 years old, graduated in 2024 in Systems Analysis 
 **For Contact**:
 - [LinkedIn](https://www.linkedin.com/in/am%C3%B3s-jud%C3%A1-4b5500229/)
 - [Email](amosjudafreire@gmail.com)
+
+<div align="center">
+<a href="https://github.com/AmosJuda">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmosJuda&layout=compact&langs_count=7&theme=gruvbox"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=AmosJuda&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
+</div>
