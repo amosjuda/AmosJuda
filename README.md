@@ -13,6 +13,9 @@ I am Amós Judá and i have 22 years old, graduated in 2024 in Systems Analysis 
   <img width="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" />
   Maven
   |
+  <img width="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gradle/gradle-original.svg" />
+  Gradle
+  |
   <img width="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
   HTML
   |
@@ -21,6 +24,12 @@ I am Amós Judá and i have 22 years old, graduated in 2024 in Systems Analysis 
   |
   <img width="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
   JavaScript   
+  |
+  <img width="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+  Typescript
+  |
+  <img width="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+  Docker
   |
   <img width="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
   Git
