@@ -1,8 +1,6 @@
 ## Hello, I'm Amós Judá
 
-I'm a 23-year-old Java developer, graduated in 2024 in Systems Analysis and Development from UNICESUMAR University.  
-I'm passionate about backend development and currently focused on building robust APIs using Java and Spring Boot.  
-I’m actively looking for my first opportunity as a developer in the technology industry.
+Software developer dedicated to creating robust APIs and sophisticated systems. Driven by curiosity, I'm always learning and adapting to new technologies and market trends.
 
 ---
 
