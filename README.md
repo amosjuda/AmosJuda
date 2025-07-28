@@ -1,4 +1,4 @@
-## Hello, I'm Amós Judá
+## Hello, I'm Amós
 
 Software developer dedicated to creating robust APIs and sophisticated systems. Driven by curiosity, I'm always learning and adapting to new technologies and market trends.
 
