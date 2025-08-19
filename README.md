@@ -31,7 +31,6 @@ Software developer dedicated to creating robust APIs and sophisticated systems. 
 
 ### 👤 About Me
 
-- 💼 Looking for a Junior Java Backend Developer role  
 - 🧠 Constantly learning about clean code, new technologies, and testing  
 - 🤝 I value teamwork, communication, and continuous improvement  
 
