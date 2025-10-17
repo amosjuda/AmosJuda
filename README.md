@@ -22,13 +22,6 @@ Software developer dedicated to creating robust APIs and sophisticated systems. 
 
 ---
 
-### 🚀 Featured Projects
-
-- **[Medical Appointment System](https://github.com/AmosJuda/Management-of-medical-appointments)**  
-  Full CRUD system for managing doctors, patients, and appointments, with layered architecture, DTOs, mappers, exception handling, and best practices.
-
----
-
 ### 👤 About Me
 
 - 🧠 Constantly learning about clean code, new technologies, and testing  
