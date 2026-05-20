@@ -69,14 +69,19 @@
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=amosjuda&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amosjuda&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+<img src="https://github-profile-trophy.vercel.app/?username=amosjuda&theme=darkhub&no-frame=true&column=7&margin-w=4" />
 
 </div>
 
 <div align="center">
 
 <img src="https://streak-stats.demolab.com/?user=amosjuda&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=amosjuda&theme=github-compact&hide_border=true&area=true" />
 
 </div>
 
