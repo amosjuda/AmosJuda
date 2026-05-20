@@ -69,12 +69,6 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=amosjuda&theme=darkhub&no-frame=true&column=7&margin-w=4" />
-
-</div>
-
-<div align="center">
-
 <img src="https://streak-stats.demolab.com/?user=amosjuda&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D" />
 
 </div>
