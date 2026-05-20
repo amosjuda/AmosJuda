@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=6DB33F&center=true&vCenter=true&width=620&lines=Full-Stack+Developer+%7C+Java+%26+Kotlin;Spring+Boot+%7C+Microservices+%7C+REST+APIs;React+%2B+TypeScript+%7C+AWS+%7C+Docker;Clean+Code+%7C+TDD+%7C+DDD" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=620&lines=Full-Stack+Developer+%7C+Java+%26+Kotlin;Spring+Boot+%7C+Microservices+%7C+REST+APIs;React+%2B+TypeScript+%7C+AWS+%7C+Docker;Clean+Code+%7C+TDD+%7C+DDD" alt="Typing SVG" />
 
 <h2>Amós Judá</h2>
 
