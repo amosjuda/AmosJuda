@@ -69,14 +69,21 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=amosjuda&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+<img src="https://streak-stats.demolab.com/?user=amosjuda&theme=vue&hide_border=true&date_format=j%20M%5B%20Y%5D" />
 
 </div>
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=amosjuda&theme=github-compact&hide_border=true&area=true" />
-
+  <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://raw.githubusercontent.com/amosjuda/github-readme/main/output/contribs-dark.svg"
+      />
+      <img
+        alt="GitHub contributions"
+        src="https://raw.githubusercontent.com/amosjuda/github-readme/main/output/contribs-light.svg"
+      />
+  </picture>
 </div>
 
 ---
