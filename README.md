@@ -68,12 +68,6 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=amosjuda&theme=vue&hide_border=true&date_format=j%20M%5B%20Y%5D" />
-
-</div>
-
-<div align="center">
   <picture>
       <source
         media="(prefers-color-scheme: dark)"
