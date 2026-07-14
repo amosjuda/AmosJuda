@@ -56,6 +56,7 @@
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 
 ### Architecture & Practices
+![Monolithic Architecture](https://img.shields.io/badge/Monolithic_Architecture-4B5563?style=for-the-badge&logoColor=white)
 ![Microservices](https://img.shields.io/badge/Microservices-2496ED?style=for-the-badge&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logoColor=white)
 ![DDD](https://img.shields.io/badge/Domain--Driven_Design-6DB33F?style=for-the-badge&logoColor=white)
